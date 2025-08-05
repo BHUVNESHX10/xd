@@ -1,6 +1,5 @@
-# xd
- # 🔍 xd - Python GUI Port Scanner
-
+.
+ # 🔍 PYTHON GUI PORT SCANNER
 A beginner-friendly Python GUI tool to scan open ports on a given IP or domain using `socket` and `Tkinter`.
 
 ## 📌 Features
